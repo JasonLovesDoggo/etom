@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "etom"
+version = "0.2.0"
+description = "A simple project to deal with encrypted toml files"
+authors = ["Jason <git@jasoncameron.dev>"]
+license = "GPLv3"
+readme = ["README.md", "LICENSE"]
+keywords = ["toml", "encryption", "decryption"]
+repository  = "https://github.com/JasonLovesDoggo/etom"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+toml = "^0.10.2"
+cryptography = "^43.0.0"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.6.3"
+pytest = "^6.2.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
