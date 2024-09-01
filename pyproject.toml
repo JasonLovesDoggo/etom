@@ -9,13 +9,14 @@ keywords = ["toml", "encryption", "decryption"]
 repository  = "https://github.com/JasonLovesDoggo/etom"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = ">=3.8.1,<4.0"
 toml = "^0.10.2"
 cryptography = "^43.0.0"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.6.3"
 pytest = "^6.2.5"
+flake8 = "^7.1.1"
 
 
 [build-system]
