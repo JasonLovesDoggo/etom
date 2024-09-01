@@ -55,6 +55,4 @@ poetry run pytest
 
 ## License
 
-This project is licensed under the Gpl-3.0 License - see the [LICENSE](LICENSE) file for details.
-```
-
+This project is licensed under the Gpl-3.0 License—see the [LICENSE](LICENSE) file for details.
