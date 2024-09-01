@@ -1,7 +1,7 @@
 # Encrypted TOML (eTOM)
 
 [![PyPI version](https://badge.fury.io/py/etom.svg)](https://badge.fury.io/py/etom)
-[![codecov](https://codecov.io/gh/andrewp-as-is/etom/branch/master/graph/badge.svg)](https://codecov.io/gh/andrewp-as-is/etom)
+[![codecov](https://codecov.io/github/JasonLovesDoggo/etom/graph/badge.svg?token=7KDIR1HKDL)](https://codecov.io/github/JasonLovesDoggo/etom)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A Python library for handling encrypted TOML files.
